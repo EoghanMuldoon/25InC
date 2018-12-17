@@ -1,0 +1,5 @@
+﻿  Game.c
+c:\users\eogha\source\repos\25game\25game\game.c(20): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\eogha\source\repos\25game\25game\game.c(21): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\eogha\source\repos\25game\25game\game.c(13): warning C4101: 'temp2': unreferenced local variable
+  25Game.vcxproj -> C:\Users\eogha\source\repos\25Game\Debug\25Game.exe
