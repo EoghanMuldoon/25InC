@@ -20,7 +20,7 @@ void main()
 		temp1[4] = cards[i];
 		printf("%s \n" , temp1[4]);
 
-		//Test
+		
 
 	}
 }
